@@ -4,3 +4,6 @@
 #### This is header4!
 ##### This is header5!
 ###### This is header6!
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
